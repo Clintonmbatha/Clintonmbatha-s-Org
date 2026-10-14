@@ -1,0 +1,6 @@
+{
+  "name": "KINETIC GRID | NFL Digital Athlete & Vision AI Lab",
+  "description": "Comprehensive Sports AI architecture and interactive intelligence platform exploring the NFL Digital Athlete, stadium RFID sensor tracking, adverse weather sensor fusion, and AI coaching computer vision pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
